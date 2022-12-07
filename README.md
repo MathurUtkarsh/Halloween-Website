@@ -1,5 +1,7 @@
 # Halloween-Website
 
+This is our OSS Lab Project.
+
 ### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
@@ -8,3 +10,9 @@
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+Teams:
+- Utkarsh Mathur
+- Swapnil Pant 
+- Unnati Chawla
+- Ujala Singh
