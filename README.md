@@ -2,6 +2,13 @@
 
 This is our OSS Lab Project.
 
+Our Team:
+- Utkarsh Mathur
+- Swapnil Pant 
+- Unnati Chawla
+- Ujala Singh
+
+
 ### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
@@ -13,7 +20,7 @@ This is our OSS Lab Project.
 
 ![halloween](/preview.png)
 
-Teams:
+Team:
 - Utkarsh Mathur
 - Swapnil Pant 
 - Unnati Chawla
