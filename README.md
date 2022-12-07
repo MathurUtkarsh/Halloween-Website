@@ -1,6 +1,6 @@
 # Halloween-Website
 
-This is our OSS Lab Project.
+It's our OSS Lab Project.
 
 Our Team:
 - Utkarsh Mathur
