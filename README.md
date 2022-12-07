@@ -8,6 +8,7 @@ Our Team:
 - Unnati Chawla
 - Ujala Singh
 
+### About the Project
 
 ### Responsive Halloween Website 🎃
 
@@ -20,8 +21,3 @@ Our Team:
 
 ![halloween](/preview.png)
 
-Team:
-- Utkarsh Mathur
-- Swapnil Pant 
-- Unnati Chawla
-- Ujala Singh
