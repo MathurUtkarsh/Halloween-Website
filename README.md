@@ -11,6 +11,8 @@ This is our OSS Lab Project.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+![halloween](/preview.png)
+
 Teams:
 - Utkarsh Mathur
 - Swapnil Pant 
