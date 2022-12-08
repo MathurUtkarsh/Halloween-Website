@@ -2,7 +2,7 @@
 
 It's our OSS Lab Project.
 
-Our Team:
+Our Team :
 - Utkarsh Mathur
 - Swapnil Pant 
 - Unnati Chawla
