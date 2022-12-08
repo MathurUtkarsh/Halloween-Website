@@ -6,7 +6,7 @@ Our Team :
 - Utkarsh Mathur
 - Swapnil Pant 
 - Unnati Chawla
-- Ujala Singh
+- UJALA siNGH
 
 ### About the Project
 
